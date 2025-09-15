@@ -28,7 +28,7 @@ const AppliedJobs = () => {
   };
   return (
     <div>
-      <h1 className="text-5xl text-center bg-gradient-to-r from-indigo-500 to-indigo-800 bg-clip-text text-transparent p-2 mb-4 ">
+      <h1 className="text-5xl text-center bg-gradient-to-r from-green-500 to-green-800 bg-clip-text text-transparent p-2 mb-4 ">
         Applied Jobs
       </h1>
       <div>
