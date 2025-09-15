@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
     return (
         <div className='m-4'>
-            <div className="navbar bg-base-100 p-5 ">
+            <div className="navbar bg-base-100 p-4 ">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -28,14 +28,14 @@ const Navbar = () => {
                                     Applied Jobs
                                 </Link>
                             </li>
-                            {/* <li>
+                            <li>
                                 <Link to="/blog" className='default'>
                                     Blog
                                 </Link>
-                            </li> */}
+                            </li>
                         </ul>
                     </div>
-                    <Link to="/" className='normal-case text-5xl custom-text font-bold'>Job Hunt</Link>
+                    <Link to="/" className='normal-case text-5xl custom-text font-bold'>JobNest</Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 tracking-wider font-medium">
@@ -54,11 +54,11 @@ const Navbar = () => {
                                 Applied Jobs
                             </Link>
                         </li>
-                        {/* <li>
+                        <li>
                             <Link to="/blog" className={({ isActive }) => (isActive ? 'text-blue-600' : 'default')}>
                                 Blog
                             </Link>
-                        </li> */}
+                        </li>
                     </ul>
                 </div>
                 <div className="navbar-end">
