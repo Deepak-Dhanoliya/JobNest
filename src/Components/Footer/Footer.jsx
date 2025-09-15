@@ -232,7 +232,7 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <p className="font-bold text-gray-500 text-center bg-gradient-to-r from-indigo-500 to-indigo-800 bg-clip-text text-transparent italic">
+                    <p className="font-bold text-gray-500 text-center bg-gradient-to-r from-green-500 to-green-800 bg-clip-text text-transparent italic">
                         &copy; 2025. JobNest. All rights reserved.
                     </p>
                 </div>

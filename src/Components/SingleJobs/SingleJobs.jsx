@@ -25,11 +25,11 @@ const SingleJobs = ({ job }) => {
                         </div>
                         <div className='md:flex'>
                             <p className='flex items-center mr-6'>
-                                <MapPinIcon className="h-6 w-6 text-blue-500" />
+                                <MapPinIcon className="h-6 w-6 text-green-800" />
                                 {location}
                             </p>
                             <p className='flex items-center mt-2 md:mt-0'>
-                                <CurrencyDollarIcon className="h-6 w-6 text-blue-500" />
+                                <CurrencyDollarIcon className="h-6 w-6 text-green-800" />
                                 Salary : {salary}
                             </p>
                         </div>

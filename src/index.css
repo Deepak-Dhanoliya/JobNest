@@ -9,11 +9,11 @@
 }
 
 .custom-btn{
-  @apply btn border-0 bg-gradient-to-r from-indigo-500 to-indigo-800
+  @apply btn border-0 bg-gradient-to-r from-green-500 to-green-800
 }
 
 .custom-text{
-  @apply inline-block bg-gradient-to-r from-indigo-500 to-indigo-800 bg-clip-text text-transparent
+  @apply inline-block bg-gradient-to-r from-green-500 to-green-800 bg-clip-text text-transparent
 }
 
 
