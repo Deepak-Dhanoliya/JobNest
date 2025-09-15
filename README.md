@@ -5,7 +5,7 @@
 ## 🚀 Live Demo
 
 Check out the live version of the project here:  
-**[JobNest Live](https://your-live-link-here.com)**
+**[JobNest Live](https://job-nest-murex.vercel.app/)**
 
 *(Replace the above link with your actual deployed website URL.)*
 
